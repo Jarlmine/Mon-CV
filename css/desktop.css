@@ -1,0 +1,15 @@
+nav {
+  position: sticky;
+  top: 0px;
+  background: rgba(255, 255, 255, 0.7);
+}
+nav ul {
+  justify-content: center;
+}
+.nav-item,
+.nav-item a {
+  margin-bottom: 0 !important;
+}
+.article {
+  box-shadow: 0.2rem 0.2rem 2.5rem 1rem hsla(277.4, 54.1%, 54.7%, 0.6);
+}
